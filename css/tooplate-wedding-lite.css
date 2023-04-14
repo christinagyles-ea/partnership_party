@@ -441,8 +441,9 @@ strong {
 }
 
 .save-the-date-title {
-  background: #CB7575;
+  background: #cb7575ba;
   color: var(--white-color);
+  text-shadow: 2px 2px rgba(150, 123, 123, 0.849);
   margin-bottom: 0;
   padding: 10px 15px;
 }
